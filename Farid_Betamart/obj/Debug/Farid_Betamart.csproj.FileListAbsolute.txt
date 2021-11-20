@@ -1,0 +1,11 @@
+C:\Project\UKK\Betamart\Farid_Betamart\Farid_Betamart\bin\Debug\mydb.accdb
+C:\Project\UKK\Betamart\Farid_Betamart\Farid_Betamart\bin\Debug\Farid_Betamart.exe.config
+C:\Project\UKK\Betamart\Farid_Betamart\Farid_Betamart\bin\Debug\Farid_Betamart.exe
+C:\Project\UKK\Betamart\Farid_Betamart\Farid_Betamart\bin\Debug\Farid_Betamart.pdb
+C:\Project\UKK\Betamart\Farid_Betamart\Farid_Betamart\obj\Debug\Farid_Betamart.Form1.resources
+C:\Project\UKK\Betamart\Farid_Betamart\Farid_Betamart\obj\Debug\Farid_Betamart.Properties.Resources.resources
+C:\Project\UKK\Betamart\Farid_Betamart\Farid_Betamart\obj\Debug\Farid_Betamart.csproj.GenerateResource.cache
+C:\Project\UKK\Betamart\Farid_Betamart\Farid_Betamart\obj\Debug\Farid_Betamart.csproj.CoreCompileInputs.cache
+C:\Project\UKK\Betamart\Farid_Betamart\Farid_Betamart\obj\Debug\Farid_Betamart.exe
+C:\Project\UKK\Betamart\Farid_Betamart\Farid_Betamart\obj\Debug\Farid_Betamart.pdb
+C:\Project\UKK\Betamart\Farid_Betamart\Farid_Betamart\obj\Debug\Farid_Betamart.csproj.AssemblyReference.cache
